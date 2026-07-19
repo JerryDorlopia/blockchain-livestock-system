@@ -8,10 +8,8 @@
 
 | Name | Roll Number |
 |------|-------------|
-| **Team Member 1** | #001 |
-| **Team Member 2** | #002 |
-| **Team Member 3** | #003 |
-| **Team Member 4** | #004 |
+| **Jerry Dorlopia** | #202540686 |
+| **PATCHANNE DJONG-IGNABE EPHRAIM** | #202651930 |
 
 ---
 
