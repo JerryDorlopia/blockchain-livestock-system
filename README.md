@@ -88,37 +88,37 @@ Our system addresses these challenges through:
 
 ### Dashboard Overview
 
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard](images/dashboard.png)
 
 *Real-time statistics and analytics dashboard showing livestock counts, health status, and system metrics.*
 
 ### Livestock Registry
 
-![Livestock Registry](https://via.placeholder.com/800x400?text=Livestock+Registry)
+![Livestock Registry](images/livestock-registry.png)
 
 *Register new animals, view herd details, and manage livestock information.*
 
 ### Health Records
 
-![Health Records](https://via.placeholder.com/800x400?text=Health+Records)
+![Health Records](images/health-records.png)
 
 *Manage vaccinations, treatments, and health certificates for each animal.*
 
 ### Traceability
 
-![Traceability](https://via.placeholder.com/800x400?text=Traceability)
+![Traceability](images/traceability.png)
 
 *Complete animal journey tracking from farm to market with movement history.*
 
 ### IoT Monitor
 
-![IoT Monitor](https://via.placeholder.com/800x400?text=IoT+Monitor)
+![IoT Monitor](images/iot-monitor.png)
 
 *Live sensor readings, AI-powered health analysis, and image gallery.*
 
 ### Carbon Credits
 
-![Carbon Credits](https://via.placeholder.com/800x400?text=Carbon+Credits)
+![Carbon Credits](images/carbon-credits.png)
 
 *Track carbon emissions and manage verified credits for sustainable farming.*
 
@@ -412,7 +412,9 @@ javascript
 3. View health predictions
 4. Review confidence scores
 📖 User Manual
-https://via.placeholder.com/800x200?text=User+Manual
+https://images/manual.png
+
+Comprehensive user guide for the Livestock Health System
 
 Manual Contents
 Getting Started - Installation and setup guide
